@@ -1,5 +1,6 @@
 # DTGproject
 
 
-Random text added
+Random text added to readme
+
 
