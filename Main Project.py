@@ -82,11 +82,6 @@ while user_satisfied == False:
         break
 
 
-
-
-
-
-
 print("Congratulations you're goingto: ")
 print(final_destination)
 
