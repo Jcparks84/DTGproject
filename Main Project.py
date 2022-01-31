@@ -82,7 +82,7 @@ while user_satisfied == False:
         break
 
 
-print("Congratulations you're goingto: ")
+print("Congratulations you're going to: ")
 print(final_destination)
 
 print("You're eating:")
